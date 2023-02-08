@@ -49,7 +49,7 @@ This assignment requires that you create a basic, three-page web site about you 
 
 ## ❖・Due・❖
 
-Monday, 13 February 2023, at 11:00 AM.
+Wednesday, 15 February 2023, at 11:00 AM.
 
 ---
 
